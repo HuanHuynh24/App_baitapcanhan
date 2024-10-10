@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/thongtincoban" android:title="Thông tin cơ bản" android:icon="@drawable/user"/>
+    <item android:id="@+id/lophocphan" android:title="Lớp học phần" android:icon="@drawable/knowledge"/>
+    <item android:id="@+id/sothich" android:title="Sở thích" android:icon="@drawable/love"/>
+</menu>
